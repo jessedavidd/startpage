@@ -4,8 +4,9 @@ html {
 }
 
 body {
-  background-color: #121212;
+  background-color: #2b2a33;
   color: #eeeeee;
+  font-family: sans-serif;
 }
 
 #center {
@@ -39,6 +40,12 @@ body {
   position: absolute;
   margin: 0 0 0 60px;
   text-align: center;
+}
+
+.time-and-date {
+  margin: 20px 0 0 20px;
+  font-size: 22px;
+  font-weight: bold;
 }
 
 li {
